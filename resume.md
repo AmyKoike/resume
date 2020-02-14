@@ -8,3 +8,4 @@
 # 好きなこと
 
 # 学業
+https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
