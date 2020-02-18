@@ -44,8 +44,7 @@
 - ミュージカル映画(HSM/ZOMBIES/Descendants/HairSpray)
 - カードキャプターさくら
 <br>
-<br>
-<br>
+
 # ___RESEACH___
 
 ## 研究（2018）｜人と音の情報学研究室
@@ -88,7 +87,8 @@
 
 ### 海外学会等参加支援プログラム
 はばたけ筑大生(2015.11/2016.7/2016.11/2017.8/2018.7)
-  
+<br>
+
 # ___WORK___
 
 ## エレファンテック株式会社: 2017.10 - 2019.3
@@ -108,7 +108,8 @@
 - 【フレキシブル基板を科学する！】基板が薄いことによるメリットとは？
   - 曲げ剛性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
   - 耐屈曲性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
-  
+<br>
+
 # ___その他___
 - 【書き物】[Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
