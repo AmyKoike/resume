@@ -16,6 +16,7 @@
 - 水中エンターテイメント装置（主著/学位論文）
   - Eimi Koike: "Computational Fabrication and Stabilization Method for Cartesian Diver." Senior Thesis. University of Tsukuba, Ibaraki, Japan.(2016)
   - Amy Koike, Kazuki Takazawa, Satoshi Hashizume, Mose Sakashita, Daitetsu Sato, Yoichi Ochiai. (2018) Redesign of Cartesian Diver for Underwater Expression Combining Dynamic Fabrication with Non-contact Manipulation. In: Stephanidis C. (eds) HCI International 2018 – Posters’ Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 850. Springer, Cham https://doi.org/10.1007/978-3-319-92270-6_33
+  - Amy Koike, Satoshi Hashizume, Kazuki Takazawa, Mose Sakashita, Daitetsu Sato, Keisuke Kawahara, and Yoichi Ochiai. 2017. Digital fabrication and manipulation method for underwater display and entertainment. In ACM SIGGRAPH 2017 Posters (SIGGRAPH ’17). ACM, New York, NY, USA, Article 76, 2 pages. DOI: https://doi.org/10.1145/3102163.3102226
 
 - テレイグジスタンスのためのパペット（共著）
   - Mose Sakashita, Tatsuya Minagawa, Amy Koike, Ippei Suzuki, Keisuke Kawahara, and Yoichi Ochiai. 2017. You as a Puppet: Evaluation of Telepresence User Interface for Puppetry. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST ’17). ACM, New York, NY, USA, 217-228. DOI: https://doi.org/10.1145/3126594.3126608
