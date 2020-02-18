@@ -1,7 +1,7 @@
 # ___ABOUTME___
 
 ## 学歴
-- 筑波大学　図書館情報メディア研究科（情報学・修士）：2017.4 - 2019.3
+- 筑波大学 図書館情報メディア研究科（情報学・修士）：2017.4 - 2019.3
 - 筑波大学 知識情報・図書館学類（図書館情報学・学士）：2013.4 - 2017.3
 - 土浦日本大学高等学校（SHクラス・第一種特待生入学）：2010.4 - 2013.3　
 
@@ -104,13 +104,13 @@
 
 ### 技術ブログ
 - 【フレキシブル基板を科学する！】基板が薄いことによるメリットとは？
-  - 曲げ剛性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
-  - 耐屈曲性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
+  - [曲げ剛性編](https://www.elephantech.co.jp/pickups/to-study-scientifically-1/)
+  - [耐屈曲性編](https://www.elephantech.co.jp/pickups/to-study-scientifically-2/)
 <br>
 
 # ___その他___
 - [Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
-- 知識情報図書館学類・米国短期研修(2016.3)
+- 知識情報・図書館学類 米国短期研修(2016.3)
 - [先導的研究者体験プログラムARE(2015)](http://www.esys.tsukuba.ac.jp/AC/RS/index_pc.php)
 - 筑波大学アイドル研究会(2013)
