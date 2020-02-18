@@ -109,8 +109,8 @@
 <br>
 
 # ___その他___
-- 【書き物】[Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
+- [Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
-
 - 知識情報図書館学類・米国短期研修(2016.3)
+- [先導的研究者体験プログラムARE(2015)](http://www.esys.tsukuba.ac.jp/AC/RS/index_pc.php)
 - 筑波大学アイドル研究会(2013)
