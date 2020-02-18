@@ -24,9 +24,9 @@
 - Processing/OpenFrameworks（PID制御のためのカラートラッキング程度）
 
 ## すきなもの
-- Illustration(https://amycameron0223.tumblr.com)
-  - LINEstamp「うさみどんシリーズ」発売中(https://store.line.me/search/ja?q=eimidon)
-- Walt Disney Imagineering（ファンタジーを五感に作用させる形にテクノロジがすき）
+- Illustration: https://amycameron0223.tumblr.com
+  - LINEstamp「うさみどんシリーズ」発売中: https://store.line.me/search/ja?q=eimidon
+- Walt Disney Imagineering（ファンタジを五感に作用させる形にするテクノロジがすき）
 - Disney Theme Parks(TDR-AnnualPass holder)
 - Disney Animation
 - Hero(BIGHIRO6/TheFlash/TheSuperGirl/GoG)
@@ -101,9 +101,11 @@
 
 ### 技術ブログの寄稿.
 - 【フレキシブル基板を科学する！】基板が薄いことによるメリットとは？
-  - （前編）〜曲げ剛性編〜 https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
-  - （後編）〜耐屈曲性編〜 https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
+  - 曲げ剛性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
+  - 耐屈曲性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
 
 
 # その他
-https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
+- 書き物
+  - Walt Disney Archives と図書館情報学: https://note.com/super83/n/ndcb264ca9e74
+- https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
