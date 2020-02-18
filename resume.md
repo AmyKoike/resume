@@ -43,8 +43,9 @@
 
 
 # 寄稿
-工作ニュース
-知識
+- KLiS TODAY（2017年2月号）
+  http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf
+- 工作ニュース（）
 
 # 学業
 https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
