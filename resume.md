@@ -33,7 +33,11 @@
   - Mose Sakashita, Keisuke Kawahara, Amy Koike, Kenta Suzuki, Ippei Suzuki, and Yoichi Ochiai. 2016. Yadori: mask-type user interface for manipulation of puppets. In ACM SIGGRAPH 2016 Emerging Technologies (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 23 , 1 pages. DOI: http://dx.doi.org/10.1145/2929464.2929478
   - Keisuke Kawahara, Amy Koike, Mose Sakashita, Kenta Suzuki, Yadori: Mask-type user interface for animatronics, Student Innovation Contest, ACM UIST 2015,  Nov, 2015
 
-
+- ハイブリッド触覚（共著）
+  - 筐体設計/実験用コード(Processing)にて貢献
+  - Satoshi Hashizume, Kazuki Takazawa, Amy Koike and Yoichi Ochiai. “Cross-field haptics: Multiple direction haptics combined with magnetic and electrostatic fields,” 2017 IEEE World Haptics Conference (WHC), Munich, 2017, pp. 370-375. DOI: https://doi.org/10.1109/WHC.2017.7989930
+  - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: tactile device combined with magnetic and electrostatic fields for push-pull haptics. In SIGGRAPH ASIA 2016 Emerging Technologies (SA ’16). ACM, New York, NY, USA, , Article 13 , 2 pages. DOI: https://doi.org/10.1145/2988240.2988246
+  - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: push-pull haptics combined with magnetic and electrostatic fields. In ACM SIGGRAPH 2016 Posters (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 30 , 2 pages. DOI: http://dx.doi.org/10.1145/2945078.2945108
 
 
 # 寄稿
