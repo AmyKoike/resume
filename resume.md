@@ -28,8 +28,8 @@
 - Processing/OpenFrameworks（PID制御のためのカラートラッキング程度）
 
 ## すきなもの
-- Illustration: https://amycameron0223.tumblr.com
-  - LINEstamp「うさみどんシリーズ」発売中: https://store.line.me/search/ja?q=eimidon
+- [Illustration](https://amycameron0223.tumblr.com)
+  - [LINEstamp「うさみどんシリーズ」発売中](https://store.line.me/search/ja?q=eimidon)
 - Walt Disney Imagineering（ファンタジを五感に作用させる形にするテクノロジがすき）
 - Disney Theme Parks(TDR-AnnualPass holder)
 - Disney Animation
@@ -78,10 +78,8 @@
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: push-pull haptics combined with magnetic and electrostatic fields. In ACM SIGGRAPH 2016 Posters (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 30 , 2 pages. DOI: http://dx.doi.org/10.1145/2945078.2945108
 
 ## 寄稿
-- 工作ニュース・研究ノート（9巻/2017年4月発行）
-  https://core.ac.uk/download/pdf/87200443.pdf
-- KLiS TODAY（2017年2月号）
-  http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf
+- [工作ニュース・研究ノート（9巻/2017年4月発行）](https://core.ac.uk/download/pdf/87200443.pdf)
+- [KLiS TODAY（2017年2月号）](http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf)
 
 ## 表彰
 - 2016年度 筑波大学学群長表彰
@@ -104,8 +102,7 @@
    - https://www.elephantech.co.jp/pickups/stretch-fpc/
 - 展示・学会での研究発表.
   - 4DFF学会(2019.10)
-  - Future of Intelligent Material 展 (2018.11)
-    - https://youtu.be/H3oG6m1AmY4
+  - [Future of Intelligent Material 展 (2018.11)](https://youtu.be/H3oG6m1AmY4)
   - Material京都(2018.9)
   - BRIDGE TERMINALにて展示会（2018.7）
 
