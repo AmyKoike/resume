@@ -43,7 +43,9 @@
 - Hero(BIGHIRO6/TheFlash/TheSuperGirl/GoG)
 - ミュージカル映画(HSM/ZOMBIES/Descendants/HairSpray)
 - カードキャプターさくら
-  
+<br>
+<br>
+<br>
 # ___RESEACH___
 
 ## 研究（2018）｜人と音の情報学研究室
