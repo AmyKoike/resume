@@ -93,7 +93,7 @@
 - 筑波大学アイドル研究会(2013)
 
 
-# 職務関連
+# #職務関連
 
 ## エレファンテック株式会社: 2017.10 - 2019.3
 ### 伸びる基板・曲がる基板の開発
@@ -115,7 +115,7 @@
   - 耐屈曲性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
 
 
-# その他
+# #その他
 - 書き物
   - Walt Disney Archives と図書館情報学: https://note.com/super83/n/ndcb264ca9e74
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
