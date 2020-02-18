@@ -14,7 +14,7 @@
 
 # 研究
 - 水中エンターテイメント装置（主著）
-  - Computational Fabrication and Stabilization Method for Cartesian Diver
+  - Eimi Koike: "Computational Fabrication and Stabilization Method for Cartesian Diver." Senior Thesis. University of Tsukuba, Ibaraki, Japan.(2016)
   - Amy Koike, Kazuki Takazawa, Satoshi Hashizume, Mose Sakashita, Daitetsu Sato, Yoichi Ochiai. (2018) Redesign of Cartesian Diver for Underwater Expression Combining Dynamic Fabrication with Non-contact Manipulation. In: Stephanidis C. (eds) HCI International 2018 – Posters’ Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 850. Springer, Cham https://doi.org/10.1007/978-3-319-92270-6_33
 
 - テレイグジスタンスのためのパペット（共著）
