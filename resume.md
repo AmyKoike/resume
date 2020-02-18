@@ -117,5 +117,5 @@
 
 # その他
 - 書き物
-  - Walt Disney Archives と図書館情報学: https://note.com/super83/n/ndcb264ca9e74
+  - [Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
