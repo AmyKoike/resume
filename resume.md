@@ -1,4 +1,4 @@
-# ☺️___ABOUTME___
+# ___ABOUTME___
 
 ## 学歴
 - 筑波大学　図書館情報メディア研究科（情報学・修士）：2017.4 - 2019.3
@@ -14,7 +14,7 @@
 - Y-SAPIX柏校（事務）：2015.4 - 2016.3
 - 代々木ゼミナール柏校（チューター/事務）：2013.5 - 2015.3
 
-## -興味のある研究領域
+## 興味のある研究領域
 - Digital Fabrication, Human Computer Interaction, Human Robot Interaction
 - 表情や感情の知覚認知，視聴覚融合
 
