@@ -18,10 +18,6 @@
 - Digital Fabrication, Human Computer Interaction, Human Robot Interaction
 - 表情や感情の知覚認知，視聴覚融合
 
-## 寄稿
-- [工作ニュース・研究ノート（9巻/2017年4月発行）](https://core.ac.uk/download/pdf/87200443.pdf)
-- [KLiS TODAY（2017年2月号）](http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf)
-
 ## 表彰
 - 2016年度 筑波大学学群長表彰
 
@@ -61,6 +57,8 @@
 - 3DCGモデルをボクセル化し重心の位置の最適化計算 & 水圧制御装置の実装 & 画像処理によるPID制御
 - 共著者および筑波大学工作センターのみなさまのご協力のもと完成した研究です. ありがとうございました.
 #### PUBLICATION
+- [工作ニュース・研究ノート（9巻/2017年4月発行）](https://core.ac.uk/download/pdf/87200443.pdf)
+- [KLiS TODAY（2017年2月号）](http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf)
 - Eimi Koike: "Computational Fabrication and Stabilization Method for Cartesian Diver." Senior Thesis. University of Tsukuba, Ibaraki, Japan.(2016)
 - Amy Koike, Kazuki Takazawa, Satoshi Hashizume, Mose Sakashita, Daitetsu Sato, Yoichi Ochiai. (2018) Redesign of Cartesian Diver for Underwater Expression Combining Dynamic Fabrication with Non-contact Manipulation. In: Stephanidis C. (eds) HCI International 2018 – Posters’ Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 850. Springer, Cham https://doi.org/10.1007/978-3-319-92270-6_33
 - Amy Koike, Satoshi Hashizume, Kazuki Takazawa, Mose Sakashita, Daitetsu Sato, Keisuke Kawahara, and Yoichi Ochiai. 2017. Digital fabrication and manipulation method for underwater display and entertainment. In ACM SIGGRAPH 2017 Posters (SIGGRAPH ’17). ACM, New York, NY, USA, Article 76, 2 pages. DOI: https://doi.org/10.1145/3102163.3102226
