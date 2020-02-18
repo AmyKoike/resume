@@ -14,6 +14,10 @@
 - Y-SAPIX柏校（事務）：2015.4 - 2016.3
 - 代々木ゼミナール柏校（チューター/事務）：2013.5 - 2015.3
 
+## 興味のある研究領域
+- Digital Fabrication, Human Computer Interaction, Human Robot Interaction
+- 表情や感情の知覚認知，視聴覚融合
+
 ## つかえそうなもの/使用経験のあるもの
 - 3Dプリンタ（特にFDMは一緒に寝てたくらい付き合いが長い）
 - Illustrator（レーザカッタ用の筐体設計/挿絵作り）
