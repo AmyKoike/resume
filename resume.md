@@ -13,9 +13,17 @@
 - 広告代理店（プランナー）: 2019.4 - 現在
 
 # 研究
-- デジタルファブリケーション領域
-- HCI領域
-- 認知科学（表情と感情）
+- 水中エンターテイメント装置（主著）
+  - Computational Fabrication and Stabilization Method for Cartesian Diver
+  - Amy Koike, Kazuki Takazawa, Satoshi Hashizume, Mose Sakashita, Daitetsu Sato, Yoichi Ochiai. (2018) Redesign of Cartesian Diver for Underwater Expression Combining Dynamic Fabrication with Non-contact Manipulation. In: Stephanidis C. (eds) HCI International 2018 – Posters’ Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 850. Springer, Cham https://doi.org/10.1007/978-3-319-92270-6_33
+
+- テレイグジスタンスのためのパペット（共著）
+
+- アニメーションキャラクターが活き活きと感じる理由（主著）
+
+# 寄稿
+工作ニュース
+知識
 
 # 学業
 https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
