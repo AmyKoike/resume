@@ -12,12 +12,13 @@
 - エレファンテック株式会社（リサーチエンジニア）: 2017.10 - 2019.3
 - 広告代理店（プランナー）: 2019.4 - 現在
 
-# 研究（2018）｜人と音の情報学研究室
+# 学業関連
+## 研究（2018）｜人と音の情報学研究室
 - アニメーション映画のキャラクター表情と情動表現に関する研究（主著/学位論文）
   - アニメーションキャラクターが「活き活きしている」と感じる理由を，アナと雪の女王を題材に探った.
   - Eimi Koike: "The Relationship between Perceived Emotion and Facial Expression of Animated Characters." Master's Thesis. University of Tsukuba, Ibaraki, Japan. (2018) 
 
-# 研究（2015 ~ 2017）｜Digital Nature Group
+## 研究（2015 ~ 2017）｜Digital Nature Group
 - 水中エンターテイメント装置（主著/学位論文）
   - 古典的な理科の実験「浮沈子」からインスピレーションを受け，任意の形状のものを水中で自在に操作する研究.
   - 3DCGモデルをボクセル化し重心の位置の最適化計算/水圧制御装置の実装/画像処理によるPID制御
@@ -41,16 +42,30 @@
   - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: tactile device combined with magnetic and electrostatic fields for push-pull haptics. In SIGGRAPH ASIA 2016 Emerging Technologies (SA ’16). ACM, New York, NY, USA, , Article 13 , 2 pages. DOI: https://doi.org/10.1145/2988240.2988246
   - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: push-pull haptics combined with magnetic and electrostatic fields. In ACM SIGGRAPH 2016 Posters (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 30 , 2 pages. DOI: http://dx.doi.org/10.1145/2945078.2945108
 
-# 寄稿
+## 寄稿
 - 工作ニュース・研究ノート（9巻/2017年4月発行）
   https://core.ac.uk/download/pdf/87200443.pdf
 - KLiS TODAY（2017年2月号）
   http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf
 
-# 表彰
+## 表彰
 - 2016年度 筑波大学学群長表彰
 
 
+# 職務関連
+
+## エレファンテック株式会社: 2017.10 - 2019.3
+- リサーチエンジニアとしてインターン.
+- 伸びる基板・曲がる基板の開発に従事.
+  - 180度折りのための巴型切り紙回路
+    - https://info.elephantech.co.jp/jp/tomoe-type-kirigami-structure
+    - https://youtu.be/-yhtSx5WYIA
+  - 天の川切り紙構造による伸縮基板
+    - https://www.elephantech.co.jp/pickups/stretch-fpc/
+- 展示・学会での研究発表.
+  - 伸びる基板：Future of Intelligent Material 展 https://youtu.be/H3oG6m1AmY4
+
+- 技術ブログの寄稿.
 
 
 
