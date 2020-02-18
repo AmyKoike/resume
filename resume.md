@@ -43,7 +43,7 @@
 - Hero(BIGHIRO6/TheFlash/TheSuperGirl/GoG)
 - ミュージカル映画(HSM/ZOMBIES/Descendants/HairSpray)
 - カードキャプターさくら
-
+  
 # ___RESEACH___
 
 ## 研究（2018）｜人と音の情報学研究室
@@ -63,7 +63,6 @@
 - Eimi Koike: "Computational Fabrication and Stabilization Method for Cartesian Diver." Senior Thesis. University of Tsukuba, Ibaraki, Japan.(2016)
 - Amy Koike, Kazuki Takazawa, Satoshi Hashizume, Mose Sakashita, Daitetsu Sato, Yoichi Ochiai. (2018) Redesign of Cartesian Diver for Underwater Expression Combining Dynamic Fabrication with Non-contact Manipulation. In: Stephanidis C. (eds) HCI International 2018 – Posters’ Extended Abstracts. HCI 2018. Communications in Computer and Information Science, vol 850. Springer, Cham https://doi.org/10.1007/978-3-319-92270-6_33
 - Amy Koike, Satoshi Hashizume, Kazuki Takazawa, Mose Sakashita, Daitetsu Sato, Keisuke Kawahara, and Yoichi Ochiai. 2017. Digital fabrication and manipulation method for underwater display and entertainment. In ACM SIGGRAPH 2017 Posters (SIGGRAPH ’17). ACM, New York, NY, USA, Article 76, 2 pages. DOI: https://doi.org/10.1145/3102163.3102226
-
 
 ### テレイグジスタンスのためのパペット（共著）
 #### ABOUT
@@ -87,7 +86,7 @@
 
 ### 海外学会等参加支援プログラム
 はばたけ筑大生(2015.11/2016.7/2016.11/2017.8/2018.7)
-
+  
 # ___WORK___
 
 ## エレファンテック株式会社: 2017.10 - 2019.3
@@ -107,11 +106,9 @@
 - 【フレキシブル基板を科学する！】基板が薄いことによるメリットとは？
   - 曲げ剛性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
   - 耐屈曲性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
-
-
+  
 # ___その他___
-- 書き物
-  - [Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
+- 【書き物】[Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
 
 - 知識情報図書館学類・米国短期研修(2016.3)
