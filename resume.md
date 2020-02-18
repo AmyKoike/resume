@@ -1,11 +1,11 @@
 # ___ABOUTME___
 
-## -学歴
+## 学歴
 - 筑波大学　図書館情報メディア研究科（情報学・修士）：2017.4 - 2019.3
 - 筑波大学 知識情報・図書館学類（図書館情報学・学士）：2013.4 - 2017.3
 - 土浦日本大学高等学校（SHクラス・第一種特待生入学）：2010.4 - 2013.3　
 
-## -経歴
+## 経歴
 - 広告代理店（プランナー）: 2019.4 - 現在
 - エレファンテック株式会社（リサーチエンジニア）: 2017.10 - 2019.3
 - 医学部予備校（模擬試験監修/事務）：2017.5 - 2018.11
@@ -18,7 +18,14 @@
 - Digital Fabrication, Human Computer Interaction, Human Robot Interaction
 - 表情や感情の知覚認知，視聴覚融合
 
-## -つかえそうなもの/使用経験のあるもの
+## 寄稿
+- [工作ニュース・研究ノート（9巻/2017年4月発行）](https://core.ac.uk/download/pdf/87200443.pdf)
+- [KLiS TODAY（2017年2月号）](http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf)
+
+## 表彰
+- 2016年度 筑波大学学群長表彰
+
+## つかえそうなもの/使用経験のあるもの
 - 3Dプリンタ（特にFDMは一緒に寝てたくらい付き合いが長い）
 - Illustrator（レーザカッタ用の筐体設計/挿絵作り）
 - Rhinoceros/Grasshopper（Pythonのプラグインを使って3D物体のボクセル化と重心の最適化計算）
@@ -27,7 +34,7 @@
 - Arduino（Lチカ〜ステッピングモータ制御）
 - Processing/OpenFrameworks（PID制御のためのカラートラッキング程度）
 
-## -すきなもの
+## すきなもの
 - [Illustration](https://amycameron0223.tumblr.com)
   - [LINEstamp「うさみどんシリーズ」発売中](https://store.line.me/search/ja?q=eimidon)
 - Walt Disney Imagineering（ファンタジを五感に作用させる形にするテクノロジがすき）
@@ -37,7 +44,7 @@
 - ミュージカル映画(HSM/ZOMBIES/Descendants/HairSpray)
 - カードキャプターさくら
 
-# DETAILS
+# ___RESEACH___
 
 ## 研究（2018）｜人と音の情報学研究室
 ### アニメーション映画のキャラクター表情と情動表現に関する研究（主著/学位論文）
@@ -78,21 +85,10 @@
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: tactile device combined with magnetic and electrostatic fields for push-pull haptics. In SIGGRAPH ASIA 2016 Emerging Technologies (SA ’16). ACM, New York, NY, USA, , Article 13 , 2 pages. DOI: https://doi.org/10.1145/2988240.2988246
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: push-pull haptics combined with magnetic and electrostatic fields. In ACM SIGGRAPH 2016 Posters (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 30 , 2 pages. DOI: http://dx.doi.org/10.1145/2945078.2945108
 
-## 寄稿
-- [工作ニュース・研究ノート（9巻/2017年4月発行）](https://core.ac.uk/download/pdf/87200443.pdf)
-- [KLiS TODAY（2017年2月号）](http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf)
+### 海外学会等参加支援プログラム
+はばたけ筑大生(2015.11/2016.7/2016.11/2017.8/2018.7)
 
-## 表彰
-- 2016年度 筑波大学学群長表彰
-
-## その他
-- 海外学会等参加支援プログラム
-  - はばたけ筑大生(2015.11/2016.7/2016.11/2017.8/2018.7)
-- 知識情報図書館学類・米国短期研修(2016.3)
-- 筑波大学アイドル研究会(2013)
-
-
-# 職務関連
+# ___WORK___
 
 ## エレファンテック株式会社: 2017.10 - 2019.3
 ### 伸びる基板・曲がる基板の開発
@@ -113,7 +109,10 @@
   - 耐屈曲性編: https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
 
 
-# その他
+# ___その他___
 - 書き物
   - [Walt Disney Archives と図書館情報学](https://note.com/super83/n/ndcb264ca9e74)
 - https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
+
+- 知識情報図書館学類・米国短期研修(2016.3)
+- 筑波大学アイドル研究会(2013)
