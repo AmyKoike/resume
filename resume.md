@@ -84,7 +84,7 @@
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: push-pull haptics combined with magnetic and electrostatic fields. In ACM SIGGRAPH 2016 Posters (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 30 , 2 pages. DOI: http://dx.doi.org/10.1145/2945078.2945108
 
 ### 海外学会等参加支援プログラム
-はばたけ筑大生(2015.11/2016.7/2016.11/2017.8/2018.7)
+- はばたけ筑大生(2015.11/2016.7/2016.11/2017.8/2018.7)
 <br>
 
 # ___WORK___
