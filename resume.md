@@ -23,6 +23,16 @@
 - Arduino（Lチカ〜ステッピングモータ制御）
 - Processing/OpenFrameworks（PID制御のためのカラートラッキング程度）
 
+## すきなもの
+- Illustration(https://amycameron0223.tumblr.com)
+  - LINEstamp「うさみどんシリーズ」発売中(https://store.line.me/search/ja?q=eimidon)
+- Walt Disney Imagineering（ファンタジーを五感に作用させる形にテクノロジがすき）
+- Disney Theme Parks(TDR-AnnualPass holder)
+- Disney Animation
+- Hero(BIGHIRO6/TheFlash/TheSuperGirl/GoG)
+- ミュージカル映画(HSM/ZOMBIES/Descendants/HairSpray)
+- カードキャプターさくら
+
 # 学業関連
 ## 研究（2018）｜人と音の情報学研究室
 ### アニメーション映画のキャラクター表情と情動表現に関する研究（主著/学位論文）
