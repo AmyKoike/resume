@@ -66,7 +66,8 @@
 
 ### ハイブリッド触覚（共著）
 #### ABOUT
-- 筐体設計/実験用コード(Processing)にて貢献
+- 磁場と電場を組み合わせた触覚ディスプレイの研究.
+- 筐体設計/実験用コード(Processing)にて貢献.
 #### PUBLICATION
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike and Yoichi Ochiai. “Cross-field haptics: Multiple direction haptics combined with magnetic and electrostatic fields,” 2017 IEEE World Haptics Conference (WHC), Munich, 2017, pp. 370-375. DOI: https://doi.org/10.1109/WHC.2017.7989930
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: tactile device combined with magnetic and electrostatic fields for push-pull haptics. In SIGGRAPH ASIA 2016 Emerging Technologies (SA ’16). ACM, New York, NY, USA, , Article 13 , 2 pages. DOI: https://doi.org/10.1145/2988240.2988246
