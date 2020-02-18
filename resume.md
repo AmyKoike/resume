@@ -12,7 +12,12 @@
 - エレファンテック株式会社（リサーチエンジニア）: 2017.10 - 2019.3
 - 広告代理店（プランナー）: 2019.4 - 現在
 
-# 研究（2015 ~ 2017）
+# 研究（2018）｜人と音の情報学研究室(Laboratory for Sound and People with Computing)
+- アニメーション映画のキャラクター表情と情動表現に関する研究（主著/学位論文）
+  - アニメーションキャラクターが「活き活きしている」と感じる理由を，アナと雪の女王を題材に探った.
+  - Eimi Koike: "The Relationship between Perceived Emotion and Facial Expression of Animated Characters." Master's Thesis. University of Tsukuba, Ibaraki, Japan. (2018) 
+
+# 研究（2015 ~ 2017）｜Digital Nature Group
 - 水中エンターテイメント装置（主著/学位論文）
   - 古典的な理科の実験「浮沈子」からインスピレーションを受け，任意の形状のものを水中で自在に操作する研究.
   - 3DCGモデルをボクセル化し重心の位置の最適化計算/水圧制御装置の実装（共著者・橋爪氏監修）/画像処理によるPID制御
@@ -28,10 +33,7 @@
   - Mose Sakashita, Keisuke Kawahara, Amy Koike, Kenta Suzuki, Ippei Suzuki, and Yoichi Ochiai. 2016. Yadori: mask-type user interface for manipulation of puppets. In ACM SIGGRAPH 2016 Emerging Technologies (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 23 , 1 pages. DOI: http://dx.doi.org/10.1145/2929464.2929478
   - Keisuke Kawahara, Amy Koike, Mose Sakashita, Kenta Suzuki, Yadori: Mask-type user interface for animatronics, Student Innovation Contest, ACM UIST 2015,  Nov, 2015
 
-# 研究（2018）
-- アニメーション映画のキャラクター表情と情動表現に関する研究（主著/学位論文）
-  - アニメーションキャラクターが「活き活きしている」と感じる理由を，アナと雪の女王を題材に探った.
-  - Eimi Koike: "The Relationship between Perceived Emotion and Facial Expression of Animated Characters." Master's Thesis. University of Tsukuba, Ibaraki, Japan. (2018) 
+
 
 
 # 寄稿
