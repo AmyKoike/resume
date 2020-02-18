@@ -36,11 +36,14 @@
 # 学業関連
 ## 研究（2018）｜人と音の情報学研究室
 ### アニメーション映画のキャラクター表情と情動表現に関する研究（主著/学位論文）
+#### ABOUT
 - アニメーションキャラクターが「活き活きしている」と感じる理由を，アナと雪の女王を題材に探った.
+#### PUBLICATION
 - Eimi Koike: "The Relationship between Perceived Emotion and Facial Expression of Animated Characters." Master's Thesis. University of Tsukuba, Ibaraki, Japan. (2018) 
 
 ## 研究（2015 ~ 2017）｜Digital Nature Group
 ### 水中エンターテイメント装置（主著/学位論文）
+#### ABOUT
 - 古典的な理科の実験「浮沈子」からインスピレーションを受け，任意の形状のものを水中で自在に操作する研究.
 - 3DCGモデルをボクセル化し重心の位置の最適化計算 & 水圧制御装置の実装 & 画像処理によるPID制御
 - 共著者および筑波大学工作センターのみなさまのご協力のもと完成した研究です. ありがとうございました.
@@ -51,6 +54,7 @@
 
 
 ### テレイグジスタンスのためのパペット（共著）
+#### ABOUT
 - パペットに自分が「宿る」ための実装研究. 
 - リアルタイムでanimatedすることができるオーディオアニマトロニクス.
 - 研究テーマの骨格作り/ハードウェア領域におけるサポートにおいて貢献.
@@ -61,6 +65,7 @@
 - Keisuke Kawahara, Amy Koike, Mose Sakashita, Kenta Suzuki, Yadori: Mask-type user interface for animatronics, Student Innovation Contest, ACM UIST 2015,  Nov, 2015
 
 ### ハイブリッド触覚（共著）
+#### ABOUT
 - 筐体設計/実験用コード(Processing)にて貢献
 #### PUBLICATION
 - Satoshi Hashizume, Kazuki Takazawa, Amy Koike and Yoichi Ochiai. “Cross-field haptics: Multiple direction haptics combined with magnetic and electrostatic fields,” 2017 IEEE World Haptics Conference (WHC), Munich, 2017, pp. 370-375. DOI: https://doi.org/10.1109/WHC.2017.7989930
