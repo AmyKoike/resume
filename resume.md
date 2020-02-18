@@ -55,13 +55,12 @@
 # 職務関連
 
 ## エレファンテック株式会社: 2017.10 - 2019.3
-- リサーチエンジニアとしてインターン.
-- 伸びる基板・曲がる基板の開発に従事.
-  - 180度折りのための巴型切り紙回路
-    - https://info.elephantech.co.jp/jp/tomoe-type-kirigami-structure
-    - https://youtu.be/-yhtSx5WYIA
-  - 天の川切り紙構造による伸縮基板
-    - https://www.elephantech.co.jp/pickups/stretch-fpc/
+### 伸びる基板・曲がる基板の開発に従事.
+- 180度折りのための巴型切り紙回路
+   - https://info.elephantech.co.jp/jp/tomoe-type-kirigami-structure
+   - https://youtu.be/-yhtSx5WYIA
+- 天の川切り紙構造による伸縮基板
+   - https://www.elephantech.co.jp/pickups/stretch-fpc/
 - 展示・学会での研究発表.
   - 4DFF学会(2019.10)
   - Future of Intelligent Material 展 (2018.11)
@@ -69,10 +68,10 @@
   - Material京都(2018.9)
   - BRIDGE TERMINALにて展示会（2018.7）
 
-- 技術ブログの寄稿.
-  - 【フレキシブル基板を科学する！】基板が薄いことによるメリットとは？
-    - （前編）〜曲げ剛性編〜 https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
-    - （後編）〜耐屈曲性編〜 https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
+### 技術ブログの寄稿.
+- 【フレキシブル基板を科学する！】基板が薄いことによるメリットとは？
+  - （前編）〜曲げ剛性編〜 https://www.elephantech.co.jp/pickups/to-study-scientifically-1/
+  - （後編）〜耐屈曲性編〜 https://www.elephantech.co.jp/pickups/to-study-scientifically-2/
 
 
 # その他
