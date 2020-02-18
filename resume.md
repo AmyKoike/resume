@@ -41,13 +41,18 @@
   - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: tactile device combined with magnetic and electrostatic fields for push-pull haptics. In SIGGRAPH ASIA 2016 Emerging Technologies (SA ’16). ACM, New York, NY, USA, , Article 13 , 2 pages. DOI: https://doi.org/10.1145/2988240.2988246
   - Satoshi Hashizume, Kazuki Takazawa, Amy Koike, and Yoichi Ochiai. 2016. Cross-field haptics: push-pull haptics combined with magnetic and electrostatic fields. In ACM SIGGRAPH 2016 Posters (SIGGRAPH ’16). ACM, New York, NY, USA, , Article 30 , 2 pages. DOI: http://dx.doi.org/10.1145/2945078.2945108
 
-
 # 寄稿
 - 工作ニュース・研究ノート（9巻/2017年4月発行）
-  file:///Users/amyk/Downloads/KN_9-12.pdf
+  https://core.ac.uk/download/pdf/87200443.pdf
 - KLiS TODAY（2017年2月号）
   http://klis.tsukuba.ac.jp/assets/files/KLiS_TODAY_No31.pdf
 
+# 表彰
+- 2016年度 筑波大学学群長表彰
 
-# 学業
+
+
+
+
+# その他
 https://digitalnature.slis.tsukuba.ac.jp/2015/06/amy-koike/ (2017年度より更新停止中)
