@@ -24,10 +24,12 @@
 
 ## つかえそうなもの/使用経験のあるもの
 - 3Dプリンタ（特にFDMは一緒に寝てたくらい付き合いが長い）
+  - [Thingiverseでデータ公開してます!](https://www.thingiverse.com/AmyCameron/about)
 - Illustrator（レーザカッタ用の筐体設計/挿絵作り）
+- Fusion360
+- Blender
 - Rhinoceros/Grasshopper（Pythonのプラグインを使って3D物体のボクセル化と重心の最適化計算）
 - C4D（簡単な3Dプリント用オブジェクトを作るときに使用）
-- Fusion360（お手製基板検査機の修正で使用した程度）
 - Arduino（Lチカ〜ステッピングモータ制御）
 - Processing/OpenFrameworks（PID制御のためのカラートラッキング程度）
 
