@@ -22,11 +22,11 @@
 ## 表彰
 - 2016年度 筑波大学学群長表彰
 
-## つかえそうなもの/使用経験のあるもの
-- 3Dプリンタ（特にFDMは一緒に寝てたくらい付き合いが長い）
-  - [Thingiverseでデータ公開してます!](https://www.thingiverse.com/AmyCameron/about)
-- Illustrator（レーザカッタ用の筐体設計/挿絵作り）
+## 使用経験
+- Adobe Illustrator（レーザカッタ用の筐体設計/挿絵作り）
 - Fusion360
+  - [Thingiverseでデータ公開してます!](https://www.thingiverse.com/AmyCameron/about)
+- SolidWorks
 - Blender
 - Rhinoceros/Grasshopper（Pythonのプラグインを使って3D物体のボクセル化と重心の最適化計算）
 - C4D（簡単な3Dプリント用オブジェクトを作るときに使用）
