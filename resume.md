@@ -6,7 +6,8 @@
 - 土浦日本大学高等学校（SHクラス・第一種特待生入学）：2010.4 - 2013.3　
 
 ## 経歴
-- 広告会社（プランナー）: 2019.4 - 現在
+- WHILL株式会社（アソシエイト・エンジニア）：2020.10 - 現在
+- 広告会社（プランナー）: 2019.4 - 2020.9
 - エレファンテック株式会社（リサーチエンジニア）: 2017.10 - 2019.3
 - 音響学TA：2018.4 - 2018.7
 - 医学部予備校（模擬試験監修/事務）：2017.5 - 2018.11
@@ -22,16 +23,16 @@
 ## 表彰
 - 2016年度 筑波大学学群長表彰
 
-## 使用経験
-- Adobe Illustrator（レーザカッタ用の筐体設計/挿絵作り）
-- Fusion360
+## スキル
+- Adobe Illustrator（デザイン）
+- Fusion360（プロダクトデザイン）
   - [Thingiverseでデータ公開してます!](https://www.thingiverse.com/AmyCameron/about)
-- SolidWorks
-- Blender
-- Rhinoceros/Grasshopper（Pythonのプラグインを使って3D物体のボクセル化と重心の最適化計算）
-- C4D（簡単な3Dプリント用オブジェクトを作るときに使用）
-- Arduino（Lチカ〜ステッピングモータ制御）
-- Processing/OpenFrameworks（PID制御のためのカラートラッキング程度）
+- SolidWorks（メカ設計）
+- Blender（モデリング）
+- Rhinoceros/Grasshopper
+- C4D
+- Arduino
+- Processing/OpenFrameworks
 
 ## すきなもの
 - [Illustration](https://amycameron0223.tumblr.com)
